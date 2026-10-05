@@ -1,4 +1,3 @@
-Markdown
 # Sustainable ALM & Strategic Asset Allocation Engine
 
 An actuarial **Asset-Liability Management (ALM)** and **Strategic Asset Allocation (SAA)** engine designed for a Defined Benefit (DB) pension fund. The framework optimizes asset allocations across fixed income (matching sleeve) and a 6-company Indian energy equity universe (growth sleeve) under liability duration matching, regulatory capital floors, and decarbonization pathways.
